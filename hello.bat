@@ -1,3 +1,0 @@
-@echo hola
-echo
-pause
